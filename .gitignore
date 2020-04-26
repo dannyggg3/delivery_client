@@ -1,0 +1,5 @@
+/build/firebase_analytics/
+/build/firebase_messaging/
+/build/flutter_inappbrowser/
+/build/google_maps_flutter/
+/build/shared_preferences_macos/

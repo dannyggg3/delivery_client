@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225587769060",
+    "firebase_url": "https://delivery-db26b.firebaseio.com",
+    "project_id": "delivery-db26b",
+    "storage_bucket": "delivery-db26b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225587769060:android:c2f18394b444786c4b06f1",
+        "android_client_info": {
+          "package_name": "com.smartersvision.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225587769060-895ej14iutubpq1d1vqlgpgthd2ihrbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqKqaYDVHUkx3YhxDNoJkdK0wGdfEdq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225587769060-895ej14iutubpq1d1vqlgpgthd2ihrbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
