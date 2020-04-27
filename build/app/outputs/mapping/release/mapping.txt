@@ -1,7 +1,7 @@
 # compiler: R8
 # compiler_version: 1.5.69
 # min_api: 19
-# pg_map_id: c0c04eb
+# pg_map_id: 9507d9c
 android.support.customtabs.ICustomTabsService -> a.a.a.a:
     boolean warmup(long) -> a
 android.support.customtabs.ICustomTabsService$Stub -> a.a.a.a$a:
@@ -16897,7 +16897,7 @@ com.pichillilorenzo.flutter_inappbrowser.R$layout -> com.pichillilorenzo.flutter
 com.pichillilorenzo.flutter_inappbrowser.R$menu -> com.pichillilorenzo.flutter_inappbrowser.j:
 com.pichillilorenzo.flutter_inappbrowser.Util -> com.pichillilorenzo.flutter_inappbrowser.k:
     java.lang.String getUrlAsset(io.flutter.plugin.common.PluginRegistry$Registrar,java.lang.String) -> a
-com.smartersvision.food_delivery_app.Application -> com.smartersvision.food_delivery_app.Application:
+com.softoo.delivery.Application -> com.softoo.delivery.Application:
     void registerWith(io.flutter.plugin.common.PluginRegistry) -> a
 com.tekartik.sqflite.Database -> c.c.a.a:
     android.database.sqlite.SQLiteDatabase sqliteDatabase -> e

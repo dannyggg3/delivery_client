@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\danny.garcia\\.gradle\\caches\\transforms-2\\files-2.1\\bb6b941cf4dd6acf5140db1017b41652\\coordinatorlayout-1.0.0\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -61,24 +61,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,308,390,494,603,723,821",
-                        "endColumns": "143,108,81,103,108,119,97,74",
-                        "endOffsets": "194,303,385,489,598,718,816,891"
-                    },
-                    "to": {
-                        "startLines": "287,289,290,291,292,293,294,296",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "20340,20566,20675,20757,20861,20970,21090,21235",
-                        "endColumns": "143,108,81,103,108,119,97,74",
-                        "endOffsets": "20479,20670,20752,20856,20965,21085,21183,21305"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\flutter_inappbrowser\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "source": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\flutter_inappbrowser\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,11",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -94,6 +77,23 @@
                         "endLines": "264,265,266,267,268,295,306,1681",
                         "endColumns": "46,50,56,48,46,46,12,12",
                         "endOffsets": "17798,17849,17906,17955,18002,21230,21944,113831"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,308,390,494,603,723,821",
+                        "endColumns": "143,108,81,103,108,119,97,74",
+                        "endOffsets": "194,303,385,489,598,718,816,891"
+                    },
+                    "to": {
+                        "startLines": "287,289,290,291,292,293,294,296",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "20340,20566,20675,20757,20861,20970,21090,21235",
+                        "endColumns": "143,108,81,103,108,119,97,74",
+                        "endOffsets": "20479,20670,20752,20856,20965,21085,21183,21305"
                     }
                 },
                 {

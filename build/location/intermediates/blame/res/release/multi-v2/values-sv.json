@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\location\\intermediates\\res\\merged\\release\\values-sv\\values-sv.xml",
+            "outputFile": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\location\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\danny.garcia\\.gradle\\caches\\transforms-2\\files-2.1\\76f25ee9c3610f4106762d6033355740\\jetified-play-services-basement-16.0.1\\res\\values-sv\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\location\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sv\\values-sv.xml",
+            "outputFile": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\location\\intermediates\\res\\merged\\release\\values-sv\\values-sv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\danny.garcia\\.gradle\\caches\\transforms-2\\files-2.1\\76f25ee9c3610f4106762d6033355740\\jetified-play-services-basement-16.0.1\\res\\values-sv\\values.xml",

@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:225587769060:android:c2f18394b444786c4b06f1",
+        "mobilesdk_app_id": "1:225587769060:android:7130ad200aa1a6bf4b06f1",
         "android_client_info": {
-          "package_name": "com.smartersvision.food_delivery_app"
+          "package_name": "com.softoo.delivery"
         }
       },
       "oauth_client": [

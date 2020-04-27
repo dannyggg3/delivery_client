@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\danny.garcia\\.gradle\\caches\\transforms-2\\files-2.1\\ce1d029f45274f050675dc3f34205f7a\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "merged": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\danny.garcia\\.gradle\\caches\\transforms-2\\files-2.1\\ce1d029f45274f050675dc3f34205f7a\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\Multi Restaurants Flutter App\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "merged": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\danny.garcia\\.gradle\\caches\\transforms-2\\files-2.1\\ce1d029f45274f050675dc3f34205f7a\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\danny.garcia\\Downloads\\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\\softoo.delyvery\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\danny.garcia\\.gradle\\caches\\transforms-2\\files-2.1\\ce1d029f45274f050675dc3f34205f7a\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
     }
 ]

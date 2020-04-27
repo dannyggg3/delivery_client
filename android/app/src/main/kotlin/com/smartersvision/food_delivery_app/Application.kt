@@ -1,4 +1,4 @@
-package com.smartersvision.food_delivery_app
+package com.softoo.delivery
 import android.os.Bundle
 
 import io.flutter.app.FlutterApplication

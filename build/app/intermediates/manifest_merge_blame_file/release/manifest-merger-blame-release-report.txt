@@ -1,30 +1,30 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.smartersvision.food_delivery_app"
+3    package="com.softoo.delivery"
 4    android:versionCode="2"
 5    android:versionName="1.8.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml
+8-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml
+9-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:4:5-66
-11-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:4:22-64
+11-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:4:22-64
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:5:5-78
-12-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:5:22-76
+12-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:5:5-78
+12-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:5:22-76
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:6:5-80
-13-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:6:22-78
+13-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:6:5-80
+13-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:6:22-78
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:7:5-79
-14-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:7:22-76
+14-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:7:5-79
+14-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:7:22-76
 15    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-15-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:9:5-68
-15-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:9:22-65
+15-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:9:5-68
+15-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:9:22-65
 16    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 16-->[com.google.firebase:firebase-iid:20.1.2] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\dafcf4ab5be89b319964bbcd40125ff6\firebase-iid-20.1.2\AndroidManifest.xml:26:5-82
 16-->[com.google.firebase:firebase-iid:20.1.2] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\dafcf4ab5be89b319964bbcd40125ff6\firebase-iid-20.1.2\AndroidManifest.xml:26:22-79
@@ -47,42 +47,42 @@
 28         FlutterApplication and put your custom class here.
 29    -->
 30    <application
-30-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:13:5-46:19
-31        android:name="com.smartersvision.food_delivery_app.Application"
-31-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:14:9-36
+30-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:13:5-46:19
+31        android:name="com.softoo.delivery.Application"
+31-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:14:9-36
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.0.0] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\0c8e6b7f573aa648e11c24ddaa1ee45f\core-1.0.0\AndroidManifest.xml:22:18-86
 33        android:icon="@mipmap/ic_launcher"
-33-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:16:9-43
+33-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:16:9-43
 34        android:label="DELIVERY" >
-34-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:15:9-33
+34-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:15:9-33
 35        <meta-data
-35-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:18:9-19:77
+35-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:18:9-19:77
 36            android:name="com.google.android.geo.API_KEY"
-36-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:18:20-65
+36-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:18:20-65
 37            android:value="AIzaSyAT07iMlfZ9bJt1gmGj9KhJDLFY8srI6dA" />
-37-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:19:20-75
+37-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:19:20-75
 38        <meta-data
-38-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:20:9-22:62
+38-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:20:9-22:62
 39            android:name="com.google.firebase.messaging.default_notification_icon"
-39-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:21:17-87
+39-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:21:17-87
 40            android:resource="@mipmap/ic_notification" />
-40-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:22:17-59
+40-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:22:17-59
 41
 42        <activity
-42-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:23:9-45:20
-43            android:name="com.smartersvision.food_delivery_app.MainActivity"
-43-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:24:13-41
+42-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:23:9-45:20
+43            android:name="com.softoo.delivery.MainActivity"
+43-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:24:13-41
 44            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-44-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:27:13-144
+44-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:27:13-144
 45            android:hardwareAccelerated="true"
-45-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:28:13-47
+45-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:28:13-47
 46            android:launchMode="singleTop"
-46-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:25:13-43
+46-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:25:13-43
 47            android:theme="@style/LaunchTheme"
-47-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:26:13-47
+47-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:26:13-47
 48            android:windowSoftInputMode="adjustResize" >
-48-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:29:13-55
+48-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:29:13-55
 49
 50            <!--
 51                 This keeps the window background of the activity showing
@@ -91,58 +91,58 @@
 54                 defined in @style/LaunchTheme).
 55            -->
 56            <meta-data
-56-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:34:13-36:40
+56-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:34:13-36:40
 57                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
-57-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:35:17-82
+57-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:35:17-82
 58                android:value="true" />
-58-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:36:17-37
+58-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:36:17-37
 59
 60            <intent-filter>
-60-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:37:13-40:29
+60-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:37:13-40:29
 61                <action android:name="android.intent.action.MAIN" />
-61-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:38:17-68
-61-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:38:25-66
+61-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:38:17-68
+61-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:38:25-66
 62
 63                <category android:name="android.intent.category.LAUNCHER" />
-63-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:39:17-76
-63-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:39:27-74
+63-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:39:17-76
+63-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:39:27-74
 64            </intent-filter>
 65            <intent-filter>
-65-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:41:13-44:29
+65-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:41:13-44:29
 66                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
-66-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:42:17-69
-66-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:42:25-66
+66-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:42:17-69
+66-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:42:25-66
 67
 68                <category android:name="android.intent.category.DEFAULT" />
-68-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:43:17-76
-68-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\android\app\src\main\AndroidManifest.xml:43:27-73
+68-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:43:17-76
+68-->C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\android\app\src\main\AndroidManifest.xml:43:27-73
 69            </intent-filter>
 70        </activity>
 71
 72        <service android:name="io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService" >
-72-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-72-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:18-101
+72-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+72-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:18-101
 73            <intent-filter>
-73-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:29
+73-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:29
 74                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-74-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:17-78
-74-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:25-75
+74-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:17-78
+74-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:25-75
 75            </intent-filter>
 76        </service>
 77        <service
-77-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:9-17:19
+77-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:9-17:19
 78            android:name="com.google.firebase.components.ComponentDiscoveryService"
-78-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:18-89
+78-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:18-89
 79            android:directBootAware="true"
 79-->[com.google.firebase:firebase-common:19.3.0] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\59fe568bbe178ff385234b415be51b3d\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 80            android:exported="false" >
 80-->[com.google.firebase:firebase-messaging:20.1.3] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\a314fb579e7d3d2e98fd9db3e56bbe8a\jetified-firebase-messaging-20.1.3\AndroidManifest.xml:37:13-37
 81            <meta-data
-81-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-16:85
+81-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-16:85
 82                android:name="com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar"
-82-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:17-127
+82-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:17-127
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
-83-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:17-82
+83-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:17-82
 84            <meta-data
 84-->[com.google.firebase:firebase-messaging:20.1.3] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\a314fb579e7d3d2e98fd9db3e56bbe8a\jetified-firebase-messaging-20.1.3\AndroidManifest.xml:38:13-40:85
 85                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
@@ -150,11 +150,11 @@
 86                android:value="com.google.firebase.components.ComponentRegistrar" />
 86-->[com.google.firebase:firebase-messaging:20.1.3] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\a314fb579e7d3d2e98fd9db3e56bbe8a\jetified-firebase-messaging-20.1.3\AndroidManifest.xml:40:17-82
 87            <meta-data
-87-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:13:13-15:85
+87-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:13:13-15:85
 88                android:name="com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar"
-88-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:14:17-127
+88-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:14:17-127
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:15:17-82
+89-->[:firebase_analytics] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_analytics\intermediates\library_manifest\release\AndroidManifest.xml:15:17-82
 90            <meta-data
 90-->[com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\2acb3ce173df56d729f204f2d60ce248\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:30:13-32:85
 91                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
@@ -191,10 +191,10 @@
 109            android:exported="false" >
 109-->[com.google.firebase:firebase-messaging:20.1.3] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\a314fb579e7d3d2e98fd9db3e56bbe8a\jetified-firebase-messaging-20.1.3\AndroidManifest.xml:30:13-37
 110            <intent-filter android:priority="-500" >
-110-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:29
+110-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:29
 111                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-111-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:17-78
-111-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:25-75
+111-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:17-78
+111-->[:firebase_messaging] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:25-75
 112            </intent-filter>
 113        </service>
 114
@@ -215,35 +215,35 @@
 122        </receiver>
 123
 124        <activity
-124-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:10:9-13:47
+124-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:10:9-13:47
 125            android:name="com.pichillilorenzo.flutter_inappbrowser.InAppBrowserActivity"
-125-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:11:13-89
+125-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:11:13-89
 126            android:configChanges="orientation|screenSize"
-126-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:12:13-59
+126-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:12:13-59
 127            android:theme="@style/AppTheme" />
-127-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:13:13-44
+127-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:13:13-44
 128        <activity
-128-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:14:9-17:55
+128-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:14:9-17:55
 129            android:name="com.pichillilorenzo.flutter_inappbrowser.ChromeCustomTabs.ChromeCustomTabsActivity"
-129-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:15:13-110
+129-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:15:13-110
 130            android:configChanges="orientation|screenSize"
-130-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:16:13-59
+130-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:16:13-59
 131            android:theme="@style/ThemeTransparent" />
-131-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:17:13-52
+131-->[:flutter_inappbrowser] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\flutter_inappbrowser\intermediates\library_manifest\release\AndroidManifest.xml:17:13-52
 132        <activity
-132-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+132-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
 133            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-133-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+133-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
 134            android:exported="false"
-134-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+134-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
 135            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-135-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\Multi Restaurants Flutter App\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+135-->[:url_launcher] C:\Users\danny.garcia\Downloads\codecanyon-24878940-multi-restaurants-flutter-php-laravel-admin-panel\softoo.delyvery\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
 136
 137        <provider
 137-->[com.google.firebase:firebase-common:19.3.0] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\59fe568bbe178ff385234b415be51b3d\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
 138            android:name="com.google.firebase.provider.FirebaseInitProvider"
 138-->[com.google.firebase:firebase-common:19.3.0] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\59fe568bbe178ff385234b415be51b3d\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-139            android:authorities="com.smartersvision.food_delivery_app.firebaseinitprovider"
+139            android:authorities="com.softoo.delivery.firebaseinitprovider"
 139-->[com.google.firebase:firebase-common:19.3.0] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\59fe568bbe178ff385234b415be51b3d\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
 140            android:exported="false"
 140-->[com.google.firebase:firebase-common:19.3.0] C:\Users\danny.garcia\.gradle\caches\transforms-2\files-2.1\59fe568bbe178ff385234b415be51b3d\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
