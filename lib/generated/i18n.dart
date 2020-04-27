@@ -147,6 +147,7 @@ class S implements WidgetsLocalizations {
   String get should_be_a_valid_email => "Should be a valid email";
   String get should_be_more_than_3_characters => "Should be more than 3 characters";
   String get should_be_more_than_3_letters => "Should be more than 3 letters";
+  String get should_be_equal_to_10_numbers => "Should be equal to 10 numbers";
   String get should_be_more_than_6_letters => "Should be more than 6 letters";
   String get skip => "Skip";
   String get start_exploring => "Start Exploring";

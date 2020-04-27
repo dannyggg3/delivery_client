@@ -48,7 +48,7 @@ class UserController extends ControllerMVC {
           scaffoldKey.currentState.showSnackBar(SnackBar(
             content: Text(S.current.welcome + value.name),
           ));
-          Navigator.of(scaffoldKey.currentContext).pushReplacementNamed('/Pages', arguments: 2);
+          Navigator.of(scaffoldKey.currentContext).pushReplacementNamed('/Pages', arguments: 3);
         } else {
           scaffoldKey.currentState.showSnackBar(SnackBar(
             content: Text(S.current.wrong_email_or_password),

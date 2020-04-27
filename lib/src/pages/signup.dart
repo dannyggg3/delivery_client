@@ -88,6 +88,28 @@ class _SignUpWidgetState extends StateMVC<SignUpWidget> {
                               borderSide: BorderSide(color: Theme.of(context).focusColor.withOpacity(0.2))),
                         ),
                       ),
+                      //---------------Phone Register---------------//
+                      SizedBox(height: 30),
+                      TextFormField(
+                        keyboardType: TextInputType.phone,
+                        maxLength: 10,
+                        onSaved: (input) => _con.user.phone = input,
+                        validator: (input) => input.length != 10 ? S.of(context).should_be_equal_to_10_numbers : null,
+                        decoration: InputDecoration(
+                          labelText: S.of(context).phone,
+                          labelStyle: TextStyle(color: Theme.of(context).accentColor),
+                          contentPadding: EdgeInsets.all(12),
+                          hintText: '0999999999',
+                          hintStyle: TextStyle(color: Theme.of(context).focusColor.withOpacity(0.7)),
+                          prefixIcon: Icon(Icons.phone, color: Theme.of(context).accentColor),
+                          border: OutlineInputBorder(
+                              borderSide: BorderSide(color: Theme.of(context).focusColor.withOpacity(0.2))),
+                          focusedBorder: OutlineInputBorder(
+                              borderSide: BorderSide(color: Theme.of(context).focusColor.withOpacity(0.5))),
+                          enabledBorder: OutlineInputBorder(
+                              borderSide: BorderSide(color: Theme.of(context).focusColor.withOpacity(0.2))),
+                        ),
+                      ),
                       SizedBox(height: 30),
                       TextFormField(
                         keyboardType: TextInputType.emailAddress,
